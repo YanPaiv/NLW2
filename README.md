@@ -10,9 +10,11 @@ Segunda Edição do evento da Reocktseat na qual o projeto da vez é, uma aplica
 <h3>Buscador de professores<h3>
 <img src="/imagem-readme/professores.png">
 <hr>
-<h3>Formulario<h3>
-<img src="/imagem-readme/formulario1.png">
-<br>
-<br>
-<img src="/imagem-readme/formulario2.png">
+<div style="display:inline-block">
+   <h3>Formulario<h3>
+   <img style="width:400px;height:600px;" src="/imagem-readme/formulario1.png">
+   <br>
+   <br>
+   <img style="width:400px;height:600px;" src="/imagem-readme/formulario2.png">
+</div>
 
